@@ -1,0 +1,22 @@
+body{
+	font-family: arial;
+}
+
+header{
+	background-color: #038B9A;
+	padding: 2em;
+	color:#fff;
+}
+.cuadrado{
+	max-width: 400px;
+	margin:0 auto;
+	display: none;
+}
+.triangulito{
+	border-top: solid 15px #038B9A;
+	border-left: solid 15px transparent;
+	border-right: solid 15px transparent;
+	height: 0;
+	width: 0;
+	margin:0 auto;
+}
